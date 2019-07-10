@@ -1,0 +1,10 @@
+C:\Users\Section1\Desktop\Visual Studio İnstaller\oop\oop_Polymorphism\oop_Polymorphism\bin\Debug\oop_Polymorphism.exe.config
+C:\Users\Section1\Desktop\Visual Studio İnstaller\oop\oop_Polymorphism\oop_Polymorphism\bin\Debug\oop_Polymorphism.exe
+C:\Users\Section1\Desktop\Visual Studio İnstaller\oop\oop_Polymorphism\oop_Polymorphism\bin\Debug\oop_Polymorphism.pdb
+C:\Users\Section1\Desktop\Visual Studio İnstaller\oop\oop_Polymorphism\oop_Polymorphism\obj\Debug\oop_Polymorphism.csprojAssemblyReference.cache
+C:\Users\Section1\Desktop\Visual Studio İnstaller\oop\oop_Polymorphism\oop_Polymorphism\obj\Debug\oop_Polymorphism.Form1.resources
+C:\Users\Section1\Desktop\Visual Studio İnstaller\oop\oop_Polymorphism\oop_Polymorphism\obj\Debug\oop_Polymorphism.Properties.Resources.resources
+C:\Users\Section1\Desktop\Visual Studio İnstaller\oop\oop_Polymorphism\oop_Polymorphism\obj\Debug\oop_Polymorphism.csproj.GenerateResource.cache
+C:\Users\Section1\Desktop\Visual Studio İnstaller\oop\oop_Polymorphism\oop_Polymorphism\obj\Debug\oop_Polymorphism.csproj.CoreCompileInputs.cache
+C:\Users\Section1\Desktop\Visual Studio İnstaller\oop\oop_Polymorphism\oop_Polymorphism\obj\Debug\oop_Polymorphism.exe
+C:\Users\Section1\Desktop\Visual Studio İnstaller\oop\oop_Polymorphism\oop_Polymorphism\obj\Debug\oop_Polymorphism.pdb

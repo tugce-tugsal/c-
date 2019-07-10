@@ -1,0 +1,20 @@
+C:\Users\Section1\Desktop\Visual Studio İnstaller\windows forms app\LAB_mayintarlasi\LAB_mayintarlasi\bin\Debug\LAB_mayintarlasi.exe.config
+C:\Users\Section1\Desktop\Visual Studio İnstaller\windows forms app\LAB_mayintarlasi\LAB_mayintarlasi\bin\Debug\LAB_mayintarlasi.exe
+C:\Users\Section1\Desktop\Visual Studio İnstaller\windows forms app\LAB_mayintarlasi\LAB_mayintarlasi\bin\Debug\LAB_mayintarlasi.pdb
+C:\Users\Section1\Desktop\Visual Studio İnstaller\windows forms app\LAB_mayintarlasi\LAB_mayintarlasi\obj\Debug\LAB_mayintarlasi.csprojAssemblyReference.cache
+C:\Users\Section1\Desktop\Visual Studio İnstaller\windows forms app\LAB_mayintarlasi\LAB_mayintarlasi\obj\Debug\LAB_mayintarlasi.Form1.resources
+C:\Users\Section1\Desktop\Visual Studio İnstaller\windows forms app\LAB_mayintarlasi\LAB_mayintarlasi\obj\Debug\LAB_mayintarlasi.Properties.Resources.resources
+C:\Users\Section1\Desktop\Visual Studio İnstaller\windows forms app\LAB_mayintarlasi\LAB_mayintarlasi\obj\Debug\LAB_mayintarlasi.csproj.GenerateResource.cache
+C:\Users\Section1\Desktop\Visual Studio İnstaller\windows forms app\LAB_mayintarlasi\LAB_mayintarlasi\obj\Debug\LAB_mayintarlasi.csproj.CoreCompileInputs.cache
+C:\Users\Section1\Desktop\Visual Studio İnstaller\windows forms app\LAB_mayintarlasi\LAB_mayintarlasi\obj\Debug\LAB_mayintarlasi.exe
+C:\Users\Section1\Desktop\Visual Studio İnstaller\windows forms app\LAB_mayintarlasi\LAB_mayintarlasi\obj\Debug\LAB_mayintarlasi.pdb
+C:\Users\Tuğçe\Desktop\BAU WİSSEN\Visual Studio İnstaller\windows forms app\LAB_mayintarlasi\LAB_mayintarlasi\bin\Debug\LAB_mayintarlasi.exe.config
+C:\Users\Tuğçe\Desktop\BAU WİSSEN\Visual Studio İnstaller\windows forms app\LAB_mayintarlasi\LAB_mayintarlasi\bin\Debug\LAB_mayintarlasi.exe
+C:\Users\Tuğçe\Desktop\BAU WİSSEN\Visual Studio İnstaller\windows forms app\LAB_mayintarlasi\LAB_mayintarlasi\bin\Debug\LAB_mayintarlasi.pdb
+C:\Users\Tuğçe\Desktop\BAU WİSSEN\Visual Studio İnstaller\windows forms app\LAB_mayintarlasi\LAB_mayintarlasi\obj\Debug\LAB_mayintarlasi.csprojAssemblyReference.cache
+C:\Users\Tuğçe\Desktop\BAU WİSSEN\Visual Studio İnstaller\windows forms app\LAB_mayintarlasi\LAB_mayintarlasi\obj\Debug\LAB_mayintarlasi.Form1.resources
+C:\Users\Tuğçe\Desktop\BAU WİSSEN\Visual Studio İnstaller\windows forms app\LAB_mayintarlasi\LAB_mayintarlasi\obj\Debug\LAB_mayintarlasi.Properties.Resources.resources
+C:\Users\Tuğçe\Desktop\BAU WİSSEN\Visual Studio İnstaller\windows forms app\LAB_mayintarlasi\LAB_mayintarlasi\obj\Debug\LAB_mayintarlasi.csproj.GenerateResource.cache
+C:\Users\Tuğçe\Desktop\BAU WİSSEN\Visual Studio İnstaller\windows forms app\LAB_mayintarlasi\LAB_mayintarlasi\obj\Debug\LAB_mayintarlasi.csproj.CoreCompileInputs.cache
+C:\Users\Tuğçe\Desktop\BAU WİSSEN\Visual Studio İnstaller\windows forms app\LAB_mayintarlasi\LAB_mayintarlasi\obj\Debug\LAB_mayintarlasi.exe
+C:\Users\Tuğçe\Desktop\BAU WİSSEN\Visual Studio İnstaller\windows forms app\LAB_mayintarlasi\LAB_mayintarlasi\obj\Debug\LAB_mayintarlasi.pdb

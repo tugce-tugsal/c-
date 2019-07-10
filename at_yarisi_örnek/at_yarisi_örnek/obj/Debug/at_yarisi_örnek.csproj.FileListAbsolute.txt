@@ -1,0 +1,28 @@
+C:\Users\Section1\Desktop\Visual Studio İnstaller\windows forms app\at_yarisi_örnek\at_yarisi_örnek\obj\Debug\at_yarisi_örnek.csprojAssemblyReference.cache
+C:\Users\Section1\Desktop\Visual Studio İnstaller\windows forms app\at_yarisi_örnek\at_yarisi_örnek\obj\Debug\at_yarisi_örnek.Form1.resources
+C:\Users\Section1\Desktop\Visual Studio İnstaller\windows forms app\at_yarisi_örnek\at_yarisi_örnek\obj\Debug\at_yarisi_örnek.Properties.Resources.resources
+C:\Users\Section1\Desktop\Visual Studio İnstaller\windows forms app\at_yarisi_örnek\at_yarisi_örnek\obj\Debug\at_yarisi_örnek.csproj.GenerateResource.cache
+C:\Users\Section1\Desktop\Visual Studio İnstaller\windows forms app\at_yarisi_örnek\at_yarisi_örnek\obj\Debug\at_yarisi_örnek.csproj.CoreCompileInputs.cache
+C:\Users\Section1\Desktop\Visual Studio İnstaller\windows forms app\at_yarisi_örnek\at_yarisi_örnek\bin\Debug\at_yarisi_örnek.exe.config
+C:\Users\Section1\Desktop\Visual Studio İnstaller\windows forms app\at_yarisi_örnek\at_yarisi_örnek\bin\Debug\at_yarisi_örnek.exe
+C:\Users\Section1\Desktop\Visual Studio İnstaller\windows forms app\at_yarisi_örnek\at_yarisi_örnek\bin\Debug\at_yarisi_örnek.pdb
+C:\Users\Section1\Desktop\Visual Studio İnstaller\windows forms app\at_yarisi_örnek\at_yarisi_örnek\obj\Debug\at_yarisi_örnek.exe
+C:\Users\Section1\Desktop\Visual Studio İnstaller\windows forms app\at_yarisi_örnek\at_yarisi_örnek\obj\Debug\at_yarisi_örnek.pdb
+C:\Users\Tuğçe\Desktop\BAU WİSSEN\Visual Studio İnstaller\windows forms app\at_yarisi_örnek\at_yarisi_örnek\obj\Debug\at_yarisi_örnek.csprojAssemblyReference.cache
+C:\Users\Tuğçe\Desktop\BAU WİSSEN\Visual Studio İnstaller\windows forms app\at_yarisi_örnek\at_yarisi_örnek\obj\Debug\at_yarisi_örnek.Form1.resources
+C:\Users\Tuğçe\Desktop\BAU WİSSEN\Visual Studio İnstaller\windows forms app\at_yarisi_örnek\at_yarisi_örnek\obj\Debug\at_yarisi_örnek.Form2.resources
+C:\Users\Tuğçe\Desktop\BAU WİSSEN\Visual Studio İnstaller\windows forms app\at_yarisi_örnek\at_yarisi_örnek\obj\Debug\at_yarisi_örnek.Properties.Resources.resources
+C:\Users\Tuğçe\Desktop\BAU WİSSEN\Visual Studio İnstaller\windows forms app\at_yarisi_örnek\at_yarisi_örnek\obj\Debug\at_yarisi_örnek.csproj.GenerateResource.cache
+C:\Users\Tuğçe\Desktop\BAU WİSSEN\Visual Studio İnstaller\windows forms app\at_yarisi_örnek\at_yarisi_örnek\obj\Debug\at_yarisi_örnek.csproj.CoreCompileInputs.cache
+C:\Users\Tuğçe\Desktop\BAU WİSSEN\Visual Studio İnstaller\windows forms app\at_yarisi_örnek\at_yarisi_örnek\obj\Debug\at_yarisi_örnek.exe
+C:\Users\Tuğçe\Desktop\BAU WİSSEN\Visual Studio İnstaller\windows forms app\at_yarisi_örnek\at_yarisi_örnek\obj\Debug\at_yarisi_örnek.pdb
+C:\Users\Tuğçe\Desktop\at_yarisi_örnek\at_yarisi_örnek\bin\Debug\at_yarisi_örnek.exe.config
+C:\Users\Tuğçe\Desktop\at_yarisi_örnek\at_yarisi_örnek\bin\Debug\at_yarisi_örnek.exe
+C:\Users\Tuğçe\Desktop\at_yarisi_örnek\at_yarisi_örnek\bin\Debug\at_yarisi_örnek.pdb
+C:\Users\Tuğçe\Desktop\at_yarisi_örnek\at_yarisi_örnek\obj\Debug\at_yarisi_örnek.csprojAssemblyReference.cache
+C:\Users\Tuğçe\Desktop\at_yarisi_örnek\at_yarisi_örnek\obj\Debug\at_yarisi_örnek.Form1.resources
+C:\Users\Tuğçe\Desktop\at_yarisi_örnek\at_yarisi_örnek\obj\Debug\at_yarisi_örnek.Properties.Resources.resources
+C:\Users\Tuğçe\Desktop\at_yarisi_örnek\at_yarisi_örnek\obj\Debug\at_yarisi_örnek.csproj.GenerateResource.cache
+C:\Users\Tuğçe\Desktop\at_yarisi_örnek\at_yarisi_örnek\obj\Debug\at_yarisi_örnek.csproj.CoreCompileInputs.cache
+C:\Users\Tuğçe\Desktop\at_yarisi_örnek\at_yarisi_örnek\obj\Debug\at_yarisi_örnek.exe
+C:\Users\Tuğçe\Desktop\at_yarisi_örnek\at_yarisi_örnek\obj\Debug\at_yarisi_örnek.pdb

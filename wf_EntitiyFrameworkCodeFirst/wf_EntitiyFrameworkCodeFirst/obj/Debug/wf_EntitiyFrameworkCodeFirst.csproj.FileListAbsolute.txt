@@ -1,0 +1,15 @@
+C:\Users\Section1\Desktop\Visual Studio İnstaller\Access\wf_EntitiyFrameworkCodeFirst\wf_EntitiyFrameworkCodeFirst\bin\Debug\wf_EntitiyFrameworkCodeFirst.exe.config
+C:\Users\Section1\Desktop\Visual Studio İnstaller\Access\wf_EntitiyFrameworkCodeFirst\wf_EntitiyFrameworkCodeFirst\bin\Debug\wf_EntitiyFrameworkCodeFirst.exe
+C:\Users\Section1\Desktop\Visual Studio İnstaller\Access\wf_EntitiyFrameworkCodeFirst\wf_EntitiyFrameworkCodeFirst\bin\Debug\wf_EntitiyFrameworkCodeFirst.pdb
+C:\Users\Section1\Desktop\Visual Studio İnstaller\Access\wf_EntitiyFrameworkCodeFirst\wf_EntitiyFrameworkCodeFirst\bin\Debug\EntityFramework.dll
+C:\Users\Section1\Desktop\Visual Studio İnstaller\Access\wf_EntitiyFrameworkCodeFirst\wf_EntitiyFrameworkCodeFirst\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Section1\Desktop\Visual Studio İnstaller\Access\wf_EntitiyFrameworkCodeFirst\wf_EntitiyFrameworkCodeFirst\bin\Debug\EntityFramework.xml
+C:\Users\Section1\Desktop\Visual Studio İnstaller\Access\wf_EntitiyFrameworkCodeFirst\wf_EntitiyFrameworkCodeFirst\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Section1\Desktop\Visual Studio İnstaller\Access\wf_EntitiyFrameworkCodeFirst\wf_EntitiyFrameworkCodeFirst\obj\Debug\wf_EntitiyFrameworkCodeFirst.csprojAssemblyReference.cache
+C:\Users\Section1\Desktop\Visual Studio İnstaller\Access\wf_EntitiyFrameworkCodeFirst\wf_EntitiyFrameworkCodeFirst\obj\Debug\wf_EntitiyFrameworkCodeFirst.Form1.resources
+C:\Users\Section1\Desktop\Visual Studio İnstaller\Access\wf_EntitiyFrameworkCodeFirst\wf_EntitiyFrameworkCodeFirst\obj\Debug\wf_EntitiyFrameworkCodeFirst.Properties.Resources.resources
+C:\Users\Section1\Desktop\Visual Studio İnstaller\Access\wf_EntitiyFrameworkCodeFirst\wf_EntitiyFrameworkCodeFirst\obj\Debug\wf_EntitiyFrameworkCodeFirst.csproj.GenerateResource.cache
+C:\Users\Section1\Desktop\Visual Studio İnstaller\Access\wf_EntitiyFrameworkCodeFirst\wf_EntitiyFrameworkCodeFirst\obj\Debug\wf_EntitiyFrameworkCodeFirst.csproj.CoreCompileInputs.cache
+C:\Users\Section1\Desktop\Visual Studio İnstaller\Access\wf_EntitiyFrameworkCodeFirst\wf_EntitiyFrameworkCodeFirst\obj\Debug\wf_EntitiyFrameworkCodeFirst.csproj.CopyComplete
+C:\Users\Section1\Desktop\Visual Studio İnstaller\Access\wf_EntitiyFrameworkCodeFirst\wf_EntitiyFrameworkCodeFirst\obj\Debug\wf_EntitiyFrameworkCodeFirst.exe
+C:\Users\Section1\Desktop\Visual Studio İnstaller\Access\wf_EntitiyFrameworkCodeFirst\wf_EntitiyFrameworkCodeFirst\obj\Debug\wf_EntitiyFrameworkCodeFirst.pdb
